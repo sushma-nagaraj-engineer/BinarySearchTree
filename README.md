@@ -60,3 +60,4 @@ g)  rotateLeft
 i)  printLevels - performs a level-by-level printing of the tree.
 
 j)  main - demonstrate in your main method that all of your new methods work.
+Note: In accordance to instructions in the academic project, I have used the basic Binary Search Tree pseudo code from the author Mark Allen Weiss.
